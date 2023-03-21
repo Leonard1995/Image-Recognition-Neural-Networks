@@ -4,4 +4,4 @@ Within this project an image-classification problem will be analysed. Its core w
 
 In file presentation_machine_learning.pdf you will find the project defense' presentation, in file Project_Neural_Network.ipynb/pdf you will find the notebook containing the code and the written resume of the project.
 
-The dateset is available at: https://www.kaggle.com/puneet6060/intel image classification
+The dateset is available at: https://www.kaggle.com/puneet6060/intel-image-classification
